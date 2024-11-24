@@ -9,7 +9,6 @@ Open-Source React Native Ecommerce Cross Platform Mobile App :iphone:
 
 ## Features :memo:
 
-
 - [x] Stack Naviagtion
 - [x] Splash Screen
 - [x] Login Screen
